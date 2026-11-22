@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "mecanico",
+    "precio": 100,
+    "categoriaId": 1
+  },
+  {
+    "id": 2,
+    "nombre": "electrico",
+    "precio": 100,
+    "categoriaId": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Raton",
+    "precio": 20,
+    "categoriaId": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Raton",
+    "precio": 20,
+    "categoriaId": 1
+  }
+]

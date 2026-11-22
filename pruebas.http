@@ -1,0 +1,10 @@
+### Crear
+POST http://localhost:3000/api/productos
+Content-Type: application/json
+
+{
+    "nombre": "Raton",
+    "precio": 20,
+    "categoriaId": 1
+}
+
